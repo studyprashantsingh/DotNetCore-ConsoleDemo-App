@@ -1,0 +1,15 @@
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/bin/Debug/net8.0/DotNetCoreConsoleAppDemo
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/bin/Debug/net8.0/DotNetCoreConsoleAppDemo.deps.json
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/bin/Debug/net8.0/DotNetCoreConsoleAppDemo.runtimeconfig.json
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/bin/Debug/net8.0/DotNetCoreConsoleAppDemo.dll
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/bin/Debug/net8.0/DotNetCoreConsoleAppDemo.pdb
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.AssemblyInfoInputs.cache
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.AssemblyInfo.cs
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.csproj.CoreCompileInputs.cache
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.sourcelink.json
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.dll
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/refint/DotNetCoreConsoleAppDemo.dll
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.pdb
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/DotNetCoreConsoleAppDemo.genruntimeconfig.cache
+/home/prashantsingh/Project/DotNetCore-ConsoleDemo-App/DotNetCoreConsoleAppDemo/obj/Debug/net8.0/ref/DotNetCoreConsoleAppDemo.dll

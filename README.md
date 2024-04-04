@@ -1,2 +1,4 @@
-# DotNetCore-ConsoleDemo-App
-DotNetCore-ConsoleDemo-App
+dotnet new console -o DotNetCoreConsoleAppDemo
+cd DotNetCoreConsoleAppDemo/
+dotnet restore
+dotnet run
